@@ -1,0 +1,65 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+body {
+    background-color: lightblue;
+	background-image:  url("backgrounds/circles2.gif")
+}
+#title1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    color: white;
+	text-align: center;
+}
+
+p.linktext {
+	font-family: 'Fredoka One', cursive;
+    font-size: 15px;
+	color: white;
+}
+
+.bodytext {
+	font-family: 'Fredoka One', cursive;
+    font-size: 15px;
+	color: white;
+}
+
+.linkBorder {
+	border-style: hidden;
+	text-align: center;
+}
+
+.midGif {
+	width: 240px;
+  margin: -425px auto;
+}
+
+.guestBook {
+	width: 175px;
+  margin: auto;
+}
+
+.myPets {
+	margin-left: 600px;
+	margin-top:  -100px;
+}
+
+.myArt {
+		margin-left: 400px;
+	margin-top:  -160px;
+}
+
+.myFriends {
+	margin-left: -400px;
+	margin-top:  100px;
+}
+
+.abtMe {
+	margin-left: -600px;
+	margin-top:  150px;
+}
+
+.centeredText {
+	text-align: center;
+	margin-right:  400px;
+	margin-left:  400px;
+}
